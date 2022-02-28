@@ -1,0 +1,55 @@
+F:\project\pansonicPLC Test\pansonicPLC Test\bin\Debug\pansonicPLC Test.pdb
+F:\project\pansonicPLC Test\pansonicPLC Test\obj\Debug\pansonicPLC_Test.Form1.resources
+F:\project\pansonicPLC Test\pansonicPLC Test\obj\Debug\pansonicPLC_Test.Properties.Resources.resources
+F:\project\pansonicPLC Test\pansonicPLC Test\obj\Debug\pansonicPLC Test.csproj.GenerateResource.Cache
+F:\project\pansonicPLC Test\pansonicPLC Test\obj\Debug\pansonicPLC Test.pdb
+F:\project\pansonicPLC Test\pansonicPLC Test\obj\Debug\pansonicPLC Test.csprojResolveAssemblyReference.cache
+F:\project\pansonicPLC Test\pansonicPLC Test\bin\Debug\pansonicPLC Test.exe.config
+F:\project\pansonicPLC Test\pansonicPLC Test\bin\Debug\pansonicPLC Test.exe
+F:\project\pansonicPLC Test\pansonicPLC Test\obj\Debug\pansonicPLC Test.exe
+F:\project\pansonicPLC Test\pansonicPLC Test\bin\Debug\Pansonic.pdb
+F:\project\pansonicPLC Test\pansonicPLC Test\bin\Debug\Pansonic.xml
+D:\取钢片机资料\其他\pansonicPLC Test\pansonicPLC Test\bin\Debug\pansonicPLC Test.exe.config
+D:\取钢片机资料\其他\pansonicPLC Test\pansonicPLC Test\obj\Debug\pansonicPLC Test.exe
+D:\取钢片机资料\其他\pansonicPLC Test\pansonicPLC Test\obj\Debug\pansonicPLC Test.pdb
+D:\取钢片机资料\其他\pansonicPLC Test\pansonicPLC Test\bin\Debug\pansonicPLC Test.exe
+D:\取钢片机资料\其他\pansonicPLC Test\pansonicPLC Test\bin\Debug\pansonicPLC Test.pdb
+D:\取钢片机资料\其他\pansonicPLC Test\pansonicPLC Test\bin\Debug\Pansonic.pdb
+D:\取钢片机资料\其他\pansonicPLC Test\pansonicPLC Test\bin\Debug\Pansonic.xml
+D:\取钢片机资料\其他\pansonicPLC Test\pansonicPLC Test\obj\Debug\pansonicPLC Test.csprojResolveAssemblyReference.cache
+D:\取钢片机资料\其他\pansonicPLC Test\pansonicPLC Test\obj\Debug\pansonicPLC_Test.Form1.resources
+D:\取钢片机资料\其他\pansonicPLC Test\pansonicPLC Test\obj\Debug\pansonicPLC_Test.Properties.Resources.resources
+D:\取钢片机资料\其他\pansonicPLC Test\pansonicPLC Test\obj\Debug\pansonicPLC Test.csproj.GenerateResource.Cache
+D:\project\pansonicPLC Test\pansonicPLC Test\bin\Debug\pansonicPLC Test.exe.config
+D:\project\pansonicPLC Test\pansonicPLC Test\obj\Debug\pansonicPLC Test.exe
+D:\project\pansonicPLC Test\pansonicPLC Test\obj\Debug\pansonicPLC Test.pdb
+D:\新建文件夹\pansonicPLC Test\pansonicPLC Test\bin\Debug\pansonicPLC Test.exe.config
+D:\新建文件夹\pansonicPLC Test\pansonicPLC Test\obj\Debug\pansonicPLC Test.exe
+D:\新建文件夹\pansonicPLC Test\pansonicPLC Test\obj\Debug\pansonicPLC Test.pdb
+D:\新建文件夹\GPJ\pansonicPLC Test\pansonicPLC Test\bin\Debug\pansonicPLC Test.exe.config
+D:\新建文件夹\GPJ\pansonicPLC Test\pansonicPLC Test\obj\Debug\pansonicPLC Test.exe
+D:\新建文件夹\GPJ\pansonicPLC Test\pansonicPLC Test\obj\Debug\pansonicPLC Test.pdb
+D:\新建文件夹\GPJ\pansonicPLC Test\pansonicPLC Test\bin\Debug\pansonicPLC Test.exe
+D:\新建文件夹\GPJ\pansonicPLC Test\pansonicPLC Test\bin\Debug\pansonicPLC Test.pdb
+D:\新建文件夹\GPJ\pansonicPLC Test\pansonicPLC Test\bin\Debug\Pansonic.pdb
+D:\新建文件夹\GPJ\pansonicPLC Test\pansonicPLC Test\bin\Debug\Pansonic.xml
+D:\新建文件夹\GPJ\pansonicPLC Test\pansonicPLC Test\obj\Debug\pansonicPLC Test.csprojResolveAssemblyReference.cache
+D:\新建文件夹\GPJ\pansonicPLC Test\pansonicPLC Test\obj\Debug\pansonicPLC_Test.Form1.resources
+D:\新建文件夹\GPJ\pansonicPLC Test\pansonicPLC Test\obj\Debug\pansonicPLC_Test.Properties.Resources.resources
+D:\新建文件夹\GPJ\pansonicPLC Test\pansonicPLC Test\obj\Debug\pansonicPLC Test.csproj.GenerateResource.Cache
+D:\新建文件夹\GPJ\pansonicPLC Test\pansonicPLC Test\bin\Debug\pansonic.dll
+E:\QITA\GPJ-MX\pansonicPLC Test\pansonicPLC Test\bin\Debug\pansonicPLC Test.exe.config
+E:\QITA\GPJ-MX\pansonicPLC Test\pansonicPLC Test\bin\Debug\pansonicPLC Test.exe
+E:\QITA\GPJ-MX\pansonicPLC Test\pansonicPLC Test\bin\Debug\pansonicPLC Test.pdb
+E:\QITA\GPJ-MX\pansonicPLC Test\pansonicPLC Test\bin\Debug\pansonic.dll
+E:\QITA\GPJ-MX\pansonicPLC Test\pansonicPLC Test\bin\Debug\pansonic.pdb
+E:\QITA\GPJ-MX\pansonicPLC Test\pansonicPLC Test\bin\Debug\pansonic.xml
+E:\QITA\GPJ-MX\pansonicPLC Test\pansonicPLC Test\obj\Debug\pansonicPLC Test.csprojResolveAssemblyReference.cache
+E:\QITA\GPJ-MX\pansonicPLC Test\pansonicPLC Test\obj\Debug\pansonicPLC_Test.Form1.resources
+E:\QITA\GPJ-MX\pansonicPLC Test\pansonicPLC Test\obj\Debug\pansonicPLC_Test.Properties.Resources.resources
+E:\QITA\GPJ-MX\pansonicPLC Test\pansonicPLC Test\obj\Debug\pansonicPLC Test.csproj.GenerateResource.Cache
+E:\QITA\GPJ-MX\pansonicPLC Test\pansonicPLC Test\obj\Debug\pansonicPLC Test.exe
+E:\QITA\GPJ-MX\pansonicPLC Test\pansonicPLC Test\obj\Debug\pansonicPLC Test.pdb
+D:\anlang815\GitHub\PansonicPLC\pansonicPLC Test\bin\Debug\pansonicPLC Test.exe.config
+D:\anlang815\GitHub\PansonicPLC\pansonicPLC Test\obj\Debug\pansonicPLC Test.exe
+D:\anlang815\GitHub\PansonicPLC\pansonicPLC Test\obj\Debug\pansonicPLC Test.pdb
